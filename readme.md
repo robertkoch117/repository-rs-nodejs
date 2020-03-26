@@ -27,22 +27,38 @@ O package.json tem algumas instruções de como a aplicação deve se comportar,
 Dependências a serem instaladas:
 
 * Express - É basicamente um micro framework, ele vai nos ajudar a lidar com rotas e views:
+``` shell
 npm install express
+```
+* CORS: 
+``` shell
+npm install cors
+```
+* Mongoose: 
+``` shell
+npm install mongoose
+```
 
-* CORS: npm install cors
- 
-* Mongoose: npm install mongoose
-
-* Mongoose-paginate: npm install mongoose-paginate
+* Mongoose-paginate: 
+``` shell
+npm install mongoose-paginate
+```
 
 * Require-dir: npm install require-dir
+``` shell
+npm install require-dir
+```
 
 Dev Dependencies
 
-* Mongoose: npm install -d mongoose
+* Mongoose: 
+``` shell
+npm install -d mongoose
+```
 
 
 ## Comando para clonar o repositorio remoto
 ``` shell 
 git clone https://github.com/robertkoch117/repository-rs-nodejs
 ```
+#### [Robert Koch](https://github.com/robertkoch117)
