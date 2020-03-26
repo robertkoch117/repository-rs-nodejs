@@ -1,8 +1,17 @@
-Começar a desenvolver a api:
+Projeto API no NodeJS
 
-Crie uma pasta e dê um nome para ela, exemplo cmd : mkdir node-api
+Arquivo de leitura para facilitar o entendimento futuro dessa api em nodejs que, basicamente, faz um CRUD com MongoDB.
 
-Comando para criar o package.json:
+# Começar a desenvolver a api:
+
+Crie uma pasta e dê um nome para ela, exemplo cmd : 
+
+``` shell
+mkdir "node-api"
+git clone https://github.com/robertkoch117/repository-rs-nodejs
+```
+
+# Comando para criar o package.json:
 
 npm init -y
 
